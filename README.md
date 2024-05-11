@@ -94,7 +94,7 @@ PowerShell module that is easy to maintain, test, and use while offering modern,
 - **Testing Suite via Pester v5**: The template is designed to implment a full testing suite using Pester v5+.
   - It comes with a set of Pester tests that test the module's functionality, integration, and unit.
   - IT comes with built-in test helpers.
- 
+
 - **Dependency Management through `PSDepend`**: The template is designed to be used with PSDepend. It comes with a PSDepend file that lists the module's dependencies.
 
 - **Plaster Support**: It comes with a Plaster template that helps you create new modules
